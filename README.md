@@ -7,7 +7,9 @@
 
 **Prerequisites.** The course is open to advanced undergraduates (with at least one course in theoretical computer science: algorithms or theory of computing; or, with permission, CS 2102 as taught by Sullivan). 
 
-**Learning Objectives.** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course  uses the Lean Prover as an interactive proof assistant and programming system, and the book, Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.  
+**Learning Objectives.** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course  uses the Lean Prover as an interactive proof assistant and programming system
+
+**Required Reading.** Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.  
 
 **Grading.** Course grades will be based on four homework assignments; a semester project; and two exams. 
 
