@@ -3,7 +3,15 @@
 * Place: Web-Based Course (Synchronous)
 * Time: TuTh 11:00AM - 12:15PM
 
-This combined advanced undergraduate and graduate course will introduce students to constructive logic and its uses for specification and verification of programming languages and software systems, more generally. The course is open to advanced undergraduates (with at least one course in theoretical computer science: algorithms or theory of computing; or, with permission, CS 2102 as taught by Sullivan). Students will come to understand advanced functional programming, higher-order logic and interactive proof construction; and applications of these foundational elements to program specification and verification and to the formalization of mathematics. We will use the Lean Prover as a proof assistant, and the book, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf). The course grade will be based on four homework assignments; a semester project; and two exams. Roughly speaking we will cover one chapter each week. Here are the section and chapter assignments by date, along with dates reserved for reviews and exams.
+**Overview** This combined advanced undergraduate and graduate course will introduce students to constructive logic and its uses for specification and verification of programming languages, in particular, and of software systems, more generally. These methods have proven to be exceptionally valuable in the production of high assurance systems ranging from compilers that provably generate correct assembly code to microprocessors that provably have critical correctness properties to drones that are provably immune to key classes of security attacks. 
+
+**Prerequisites** The course is open to advanced undergraduates (with at least one course in theoretical computer science: algorithms or theory of computing; or, with permission, CS 2102 as taught by Sullivan). 
+
+**Learning Objectives** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course  uses the Lean Prover as an interactive proof assistant and programming system, and the book, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf). 
+
+**Grading** Course grades will be based on four homework assignments; a semester project; and two exams. 
+
+**Schedule** Roughly speaking we will cover one chapter each week. Here are the section and chapter assignments by date, along with dates reserved for reviews and exams.
 
 
 Date   | Section | Chapter
