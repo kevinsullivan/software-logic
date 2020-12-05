@@ -3,11 +3,11 @@
 * Place: Web-Based Course (Synchronous)
 * Time: TuTh 11:00AM - 12:15PM
 
-**Overview.** This combined advanced undergraduate and graduate course will introduce students to constructive logic and its uses for specification and verification of programming languages, in particular, and of software systems, more generally. These methods have proven to be exceptionally valuable in the production of high assurance systems ranging from compilers that provably generate correct assembly code to microprocessors that provably have critical correctness properties to drones that are provably immune to key classes of security attacks. 
+**Overview.** This combined advanced undergraduate and graduate course will introduce students to constructive logic and its uses for specification and verification of programming languages, in particular, and of software systems, more generally. These tools have proven to be valuable in the production of high assurance software-driven systems ranging from compilers that provably generate correct code, to microprocessors that provably have certain critical correctness properties, to drones that are provably immune to important classes of security attacks. 
 
-**Prerequisites.** The course is open to advanced undergraduates (with at least one course in theoretical computer science: algorithms or theory of computing; or, with permission, CS 2102 as taught by Sullivan). 
+**Prerequisites.** The course is open to advanced undergraduates who have take at least one course in theoretical computer science (algorithms, theory of computing, or CS 2102 as taught by Sullivan). 
 
-**Learning Objectives.** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course  uses the Lean Prover as an interactive proof assistant and programming system
+**Learning Objectives.** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course uses the Lean Prover as an interactive proof assistant and programming system.
 
 **Required Reading.** Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.
 
