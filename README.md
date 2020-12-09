@@ -15,7 +15,7 @@
 
 **Grading (TENTATIVE).** Course grades will be based on four homework assignments; a semester project; and two exams. 
 
-**Schedule.** Roughly speaking we will cover one chapter each week. Here are the section and chapter assignments by date, along with dates reserved for reviews and exams.
+**Schedule (TENTATIVE).** Roughly speaking we will cover one chapter each week. Here are the section and chapter assignments by date, along with dates reserved for reviews and exams.
 
 
 Date   | Section | Chapter
