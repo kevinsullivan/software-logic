@@ -9,11 +9,11 @@
 
 **Learning Objectives.** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course uses the Lean Prover as an interactive proof assistant and programming system.
 
-**Required Reading.** Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.
+**Required Reading (TENTATIVE).** Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.
 
 **Background Reading.** M. Lipovaca, [*Learn You a Haskell for Great Good!*](http://learnyouahaskell.com), No Starch Press, 2011. Read through Chapter 6, Section 4, *Lambdas*.
 
-**Grading.** Course grades will be based on four homework assignments; a semester project; and two exams. 
+**Grading (TENTATIVE).** Course grades will be based on four homework assignments; a semester project; and two exams. 
 
 **Schedule.** Roughly speaking we will cover one chapter each week. Here are the section and chapter assignments by date, along with dates reserved for reviews and exams.
 
