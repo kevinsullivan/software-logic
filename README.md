@@ -23,9 +23,9 @@ Date   | Section | Chapter
 Warmup |         | History, purpose, and nature of logic: Watch https://www.youtube.com/watch?v=wOQuW6QFdos&feature=youtu.be
 Feb 2  | Basics                   | 1. Definitions
 Feb 4  |
-Feb 9  |                          | 2. Backward Proofs
+Feb 9  |                          | 2. Backward Proofs (Top-down, type-guided, structured development)
 Feb 11 |
-Feb 16 |                          | 3. Forward Proofs
+Feb 16 |                          | 3. Forward Proofs (Bottom-up development)
 Feb 18 |
 Feb 23 |                          | 4. Functional-Logic Programming
 Feb 25 |
