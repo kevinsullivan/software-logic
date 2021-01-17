@@ -20,6 +20,7 @@
 
 Date   | Section | Chapter
 ------ | ------- | ----------
+Warmup |         | History, purpose, and nature of logic: Watch https://www.youtube.com/watch?v=wOQuW6QFdos&feature=youtu.be
 Feb 2  | Basics                   | 1. Definitions
 Feb 4  |
 Feb 9  |                          | 2. Backward Proofs
@@ -49,6 +50,6 @@ Apr 27 |
 Apr 29 |                          | 13. Real and Rational Numbers
 May 4  |
 May 6  | REVIEW                   | 
-May 15 | EXAM 9AM-12PM or Takehome TBD                        | 
+May 15 | EXAM 9AM-12PM or Takehome TBD                        
 
 
