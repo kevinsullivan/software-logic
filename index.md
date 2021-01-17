@@ -1,21 +1,25 @@
-## Welcome to Software Logic (UVa CS 4501 and 6501)
+## Software Logic (UVa CS 4501 and 6501)
 
-* Course: CS 4501-001 (16039); CS 6501-008 (20760)
+* Course Numbers: CS 4501-001 (16039); CS 6501-008 (20760)
 * Instructor: Kevin Sullivan
 * Place: Web-Based Course (Synchronous)
 * Time: TuTh 11:00AM - 12:15PM
 
-**Overview.** This combined advanced undergraduate and graduate course will introduce students to constructive logic and its uses for specification and verification of programming languages, in particular, and of software systems, more generally. These tools have proven to be valuable in the production of high assurance software-driven systems ranging from compilers that provably generate correct code, to microprocessors that provably have certain critical correctness properties, to drones that are provably immune to important classes of security attacks. 
+**Overview.** This combined advanced undergraduate and graduate course will introduce students to basic logics and their uses for specification and analysis of software systems, including basic programming languages. Such tools have proven to be valuable in the production of high assurance software-driven systems, ranging from compilers that generate provably correct code, to microprocessors that provably have critical correctness properties, to drones that are provably immune to important classes of security attacks. 
 
-**Prerequisites.** The course is open to advanced undergraduates who have take at least one course in theoretical computer science (algorithms, theory of computing, or CS 2102 as taught by Sullivan). 
+**Prerequisites.** The 4501 section of this course is open to advanced undergraduates who have take at least one course in theoretical computer science (algorithms, theory of computing, or CS 2102 as taught by Sullivan with instructor permission). 
 
-**Learning Objectives.** Students who take this course will come to understand advanced functional programming, higher-order logic and interactive proof construction; and major applications of these ideas to programming language specification, the specification and verification of programs written in imperative languages, and to the formalization of mathematics. The course uses the Lean Prover as an interactive proof assistant and programming system.
+**Learning Objectives.** Students who take this course will learn about functional programming, constructive logic, interactive proof construction;   applications of these ideas to programming language specification; specification and verification of programs written in imperative language; and  formalization of mathematics. The course uses the Lean Prover as an interactive proof assistant and programming system.
 
-**Required Reading (TENTATIVE).** Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.
+** Reading and References
 
-**Background Reading.** M. Lipovaca, [*Learn You a Haskell for Great Good!*](http://learnyouahaskell.com), No Starch Press, 2011. Read through Chapter 6, Section 4, *Lambdas*.
+1. Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.
 
-**Grading (TENTATIVE).** Course grades will be based on four homework assignments; a semester project; and two exams. 
+2. M. Lipovaca, [*Learn You a Haskell for Great Good!*](http://learnyouahaskell.com), No Starch Press, 2011. Chapters 1 through 6, Section 4.
+
+3. B. Pierce et al., [*Software Foundations, Volumes 1 and 2*](https://softwarefoundations.cis.upenn.edu/), Version 5.8 (2020-09-09 20:57, Coq 8.12).
+
+**Grading (TENTATIVE).** Course grades will be based on several homework assignments; a semester project; and two exams. 
 
 **Schedule (TENTATIVE).** Roughly speaking we will cover one chapter each week. Here are the section and chapter assignments by date, along with dates reserved for reviews and exams.
 
