@@ -5,7 +5,7 @@
 * Place: Web-Based Course (Synchronous)
 * Time: TuTh 11:00AM - 12:15PM
 
-**Overview.** This combined advanced undergraduate and graduate course will introduce students to basic logics and their uses for specification and analysis of software systems, including basic programming languages. Such tools have proven to be valuable in the production of high assurance software-driven systems, ranging from compilers that generate provably correct code, to microprocessors that provably have critical correctness properties, to drones that are provably immune to important classes of security attacks. 
+**Overview.** This combined advanced undergraduate and graduate course will introduce students to basic logics and their uses for specification and analysis of software systems, including the specification of the syntax and semantics of programming languages and of type systems. Such tools have proven to be valuable in the production of high assurance software-driven systems, ranging from compilers that generate provably correct code, to microprocessors that provably have critical correctness properties, to drones that are provably immune to important classes of security attacks. 
 
 **Prerequisites.** The 4501 section of this course is open to advanced undergraduates who have take at least one course in theoretical computer science (algorithms, theory of computing, or CS 2102 as taught by Sullivan with instructor permission). 
 
