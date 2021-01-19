@@ -20,6 +20,7 @@
 5. [*Lean 4 Manual*](https://leanprover.github.io/lean4/doc/).
 6. J. Avigad, R.Y. Lewis, F. van Doorn, [*Logic and Proof*](https://leanprover.github.io/logic_and_proof/), 2017.
 7. M. Vardi, [World Logic Day Webinar: From Aristotle to the IPhone](https://www.youtube.com/watch?v=wOQuW6QFdos&feature=youtu.be), January, 2021.
+8. [Papers on Lean]9https://leanprover-community.github.io/papers.html), various authors.
 
 **Grading.** Course grades will be based on weekly homework assignments and two exams. 
 
