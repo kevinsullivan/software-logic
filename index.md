@@ -18,6 +18,7 @@
 3. B. Pierce et al., [*Software Foundations, Volumes 1 and 2*](https://softwarefoundations.cis.upenn.edu/), Version 5.8 (2020-09-09 20:57, Coq 8.12).
 4. J. Avigad, L. de Moura, S. Kong, [*Theorem Proving in Lean*](https://leanprover.github.io/theorem_proving_in_lean), 2017. Lean 3.
 5. [*Lean 4 Manual*](https://leanprover.github.io/lean4/doc/).
+6. J. Avigad, R.Y. Lewis, F. van Doorn, [*Logic and Proof*](https://leanprover.github.io/logic_and_proof/), 2017.
 
 **Grading.** Course grades will be based on weekly homework assignments and two exams. 
 
