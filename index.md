@@ -13,10 +13,11 @@
 
 ** Reading and References
 
-1. Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020.
+1. Baanen, Bentkamp, Blanchette, Holzel, and Limperg, [*The Hitchhiker's Guide to Logical Verification*](https://github.com/blanchette/logical_verification_2020/blob/master/hitchhikers_guide.pdf), Standard Edition, published online, Oct 12, 2020. Lean 3.
 2. M. Lipovaca, [*Learn You a Haskell for Great Good!*](http://learnyouahaskell.com), No Starch Press, 2011. Chapters 1 through 6, Section 4.
 3. B. Pierce et al., [*Software Foundations, Volumes 1 and 2*](https://softwarefoundations.cis.upenn.edu/), Version 5.8 (2020-09-09 20:57, Coq 8.12).
-4. J. Avigad, L. de Moura, S. Kong, [*Theorem Proving in Lean*](https://leanprover.github.io/theorem_proving_in_lean), 2017.
+4. J. Avigad, L. de Moura, S. Kong, [*Theorem Proving in Lean*](https://leanprover.github.io/theorem_proving_in_lean), 2017. Lean 3.
+5. [*Lean 4 Manual*](https://leanprover.github.io/lean4/doc/).
 
 **Grading.** Course grades will be based on weekly homework assignments and two exams. 
 
